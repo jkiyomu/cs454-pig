@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true"
+        android:drawable="@drawable/pressed"/>
+    <item
+        android:drawable="@drawable/normal"/>
+</selector><!-- From: file:/C:/Users/Jeffrey/Documents/Android%20Projects/PairODice3/app/src/main/res/drawable/large_button.xml -->

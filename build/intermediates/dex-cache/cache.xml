@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jeffrey\Documents\Android Projects\PairODice3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Jeffrey\Documents\Android Projects\PairODice3\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-24466ae4b54a87f35fba229bd7e2f9ac406ce415.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeffrey\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Jeffrey\Documents\Android Projects\PairODice3\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-614fa1c0a2a2c79c5d57c4af5a9206c44e553a63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeffrey\Documents\Android Projects\PairODice3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Jeffrey\Documents\Android Projects\PairODice3\app\build\intermediates\pre-dexed\debug\classes-f28dac5c5f58032460ba15c13abcae6ad4f7137e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeffrey\Documents\Android Projects\PairODice3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Jeffrey\Documents\Android Projects\PairODice3\app\build\intermediates\pre-dexed\debug\classes-1eb6d0781c5b6f421f208d8415f7abfa76762e47.jar" />
+    </item>
+
+</items>
